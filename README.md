@@ -39,6 +39,8 @@ To login as a regular user use username `guestUser@travelea.com` and password `g
 
 ### Other documentation
 
+`Due to this repository originaly having been hosted on GitLab, the link no longer works since migration to GitHub`
+
 Click [here](https://eng-git.canterbury.ac.nz/seng302-2019/team-100/wikis/Product/User-Manual) for a comprehensive user manual. 
 
 ### Reference
